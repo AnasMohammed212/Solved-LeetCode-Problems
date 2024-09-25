@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [2058-concatenation-of-array](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0392-is-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
