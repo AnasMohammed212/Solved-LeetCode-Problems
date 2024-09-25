@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0217-contains-duplicate) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
