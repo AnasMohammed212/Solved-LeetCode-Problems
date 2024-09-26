@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0326-power-of-three) |
 | [2383-add-two-integers](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/2556-convert-the-temperature) |
 | [3567-convert-date-to-binary](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/3567-convert-date-to-binary) |
 ## String
 |  |
