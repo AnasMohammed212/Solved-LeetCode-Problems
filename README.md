@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1954-replace-all-digits-with-characters](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [3379-score-of-a-string](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/3567-convert-date-to-binary) |
 ## Array
