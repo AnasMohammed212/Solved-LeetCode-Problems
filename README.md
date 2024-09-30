@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0326-power-of-three) |
 | [2383-add-two-integers](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [3567-convert-date-to-binary](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/3567-convert-date-to-binary) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
