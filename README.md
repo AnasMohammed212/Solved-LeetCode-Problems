@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1954-replace-all-digits-with-characters](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/3194-find-words-containing-character) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2058-concatenation-of-array](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/3194-find-words-containing-character) |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/0136-single-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AnasMohammed212/Solved-LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
 | ------- |
